@@ -1,5 +1,5 @@
 name: testMergeSql
-description: test
+description: testRemote
 version: 0.0.1
 author: null
 language: sql
